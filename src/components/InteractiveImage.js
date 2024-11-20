@@ -48,11 +48,11 @@ export default function InteractiveImage({index, src, onDelete}){
     return (
     <div className = "image-block">
         <div className="photo-icons">
-            <img className = "icon" id = "decrease-size-icon" src="/icons/minus.png" alt="minus icon"
+            <img className = "icon" id = "decrease-size-icon" src="icons/minus.png" alt="minus icon"
             onClick={handleDecreaseSize}/> 
-            <img className = "icon" id = "increase-size-icon" src="/icons/plus.png" alt="plus icon"
+            <img className = "icon" id = "increase-size-icon" src="icons/plus.png" alt="plus icon"
             onClick = {handleInreaseSize}/>
-            <img className = "icon" id = "delete-icon" src="/icons/trash.png" alt = "trash can icon" 
+            <img className = "icon" id = "delete-icon" src="icons/trash.png" alt = "trash can icon" 
             onClick={ () => onDelete(index)}/>
         </div>
 
