@@ -5,7 +5,7 @@ import Images from './components/Images'
 function App() {
   return (
     <>
-      <Navbar />
+      <Header />
       <Content/>
       <Images/>
     </>
