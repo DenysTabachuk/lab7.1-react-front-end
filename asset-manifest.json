@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lab7.1-react-front-end/static/css/main.5cacfdbc.css",
+    "main.js": "/lab7.1-react-front-end/static/js/main.273a7f74.js",
+    "index.html": "/lab7.1-react-front-end/index.html",
+    "main.5cacfdbc.css.map": "/lab7.1-react-front-end/static/css/main.5cacfdbc.css.map",
+    "main.273a7f74.js.map": "/lab7.1-react-front-end/static/js/main.273a7f74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cacfdbc.css",
+    "static/js/main.273a7f74.js"
+  ]
+}
