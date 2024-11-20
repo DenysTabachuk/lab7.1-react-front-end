@@ -1,4 +1,4 @@
-import Navbar from './components/Navbar';
+import Header from './components/Header';
 import Content from './components/Content';
 import Images from './components/Images'
 
